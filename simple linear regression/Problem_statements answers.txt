@@ -1,0 +1,33 @@
+1) Delivery_time -> Predict delivery time using sorting time 
+answer:- 
+2) Salary_hike -> Build a prediction model for Salary_hike
+answer:- 
+
+------------------------------------------------------------
+
+Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using R or Python.
+
+
+SIMPLE LINEAR REGRESSION MODEL ANSWERS:-
+
+Simple Linear Regression
+* y= b0 + b1 X
+* b0,b1 are ==> Features or Parameters
+* X==> Dependent Variable
+* Y==> Independent Variable
+* Loss Function  Or Optimisation Function==> Ordinary Least  Squares
+
+ PREDICTION MODEL FOR DELIVERY TIME:-
+
+* There are  NO MISSING VALUES,NO NAN VALUES ,NO OUTLIERS in the dataset and There are very low number of records.
+* The Correlation between the dependent and independent variables are(r= 0.82) which means moderatly Correlated.
+* calculated  the Predicted values and Errors
+* Mean Squared Error and R^2  values are: [r^2 = 0.68] [mse =7.79 ]
+
+ PREDICTION MODEL FOR SALARY HIKE:-
+
+* There are  NO MISSING VALUES,NO NAN VALUES ,NO OUTLIERS in the dataset and There are very low number of records.
+* The Correlation between the dependent and independent variables are(r= 0.92) which means Perfectly  Correlated.
+* calculated  the Predicted values and Errors.
+* Mean Squared Error and R^2  values are:[r^2 = 0.95] [mse =6502000509.014902 ]
+
